@@ -1,2 +1,2 @@
 # projeto-front-Rafael-Amaral
-Fiz um site sobre o carro mitsubishi lancer contando sobre sua historia e geraçoes com imagens do carro, mudei a cor de fundo e usei o w3Schools para pegar codigo de Background
+Fiz um site sobre o carro Mitsubishi Lancer, contando sobre sua história e gerações, com imagens do carro. Mudei a cor de fundo e usei o W3Schools para pegar o código de background.
